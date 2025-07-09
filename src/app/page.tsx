@@ -1,5 +1,5 @@
-import MessagingApp from '@/components/MessagingApp';
+import InboxDemo from '@/components/InboxDemo';
 
 export default function Home() {
-  return <MessagingApp />;
+  return <InboxDemo />;
 }
